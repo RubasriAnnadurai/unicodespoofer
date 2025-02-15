@@ -295,7 +295,7 @@
           Made by @DarkMusic110
         </a>
         <div class="github-icons">
-          <a href="https://github.com" target="_blank">
+          <a href="https://github.com/AbsoluteSkid/unicodespoofer" target="_blank">
             <i class="fab fa-github"></i>
           </a>
         </div>
